@@ -1,0 +1,9 @@
+<nav class="navbar navbar-default navbar-inverse" role="navigation">
+	  <div class="container-fluid">
+	    <div class="collapse navbar-collapse navbar-form navbar-right" id="bs-example-navbar-collapse-1">
+			<label for="user" style="font-weight: bold; color: #ffffff">Bienvenido:	${name}</label> 
+			<a class="btn btn-default" href="/admin">PRINCIPAL</a>
+	      	<a class="btn btn-default" href="/login">SALIR</a>
+	    </div>
+	  </div>
+	</nav>
